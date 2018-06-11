@@ -35,11 +35,17 @@ header {
   flex-grow: 1;
 }
 
+.swap {
+  align-items: flex-start;
+  display: flex;
+}
+
 footer {
   align-items: flex-end;
   display: flex;
   flex-direction: column;
 }
+
 
 footer .info{
   display: flex;
