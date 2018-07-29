@@ -51,7 +51,10 @@ main {
 .whatWeDo {
   text-align: center;
   font-size: 1.5rem;
-  line-height: 2em;
+  line-height: 3em;
+}
+.name {
+  color: black;
 }
 
 .whoWeAre {
@@ -89,7 +92,7 @@ footer {
   flex-direction: row;
   justify-content: flex-end;
   padding: 1rem 2rem;
-  background-color: #000; 
+  background-color: #000;
 }
 
 
